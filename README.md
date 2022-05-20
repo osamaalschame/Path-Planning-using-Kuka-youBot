@@ -9,3 +9,8 @@
 # Method 
 
 ![](method.png)
+
+
+# Result 
+
+![](four_sim.PNG) ![](150_3.PNG)
