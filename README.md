@@ -4,7 +4,7 @@
 
 # This is to plan the Kuka youBot for spray painitig 
 
-![](1.png)
+![](1.PNG)
 
 # Method 
 
